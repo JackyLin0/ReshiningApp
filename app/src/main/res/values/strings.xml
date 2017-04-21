@@ -1,0 +1,12 @@
+<resources>
+    <!--<string name="app_name">@string/gradle_app_name</string>-->
+    <!--<string name="login">開啟登入驗證</string>-->
+    <!--<string name="title">健康照護雲</string>-->
+
+    <!--&lt;!&ndash; 健康食物&ndash;&gt;-->
+    <!--<string name="dialog_dating_add">新增食物</string>-->
+    <!--<string name="dialog_dating_serch">搜尋食品(請輸入名稱)</string>-->
+    <!--<string name="add_dating_message">食物新增完成</string>-->
+    <!--<string name="add_dating_content">飲食內容</string>-->
+    <!--<string name="dialog_list_dating">食品列表</string>-->
+</resources>

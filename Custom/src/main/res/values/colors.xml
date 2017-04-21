@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <!--/////////////////////////////////////////////////-->
+
+    <color name="white_color">#FFFFFF</color>
+    <!-- colors -->
+    <color name="white_trans30">#4CFFFFFF</color>
+    <color name="white_trans50">#80FFFFFF</color>
+    <color name="white_trans60">#99FFFFFF</color>
+    <color name="white_trans70">#B4FFFFFF</color>
+    <color name="white_trans80">#CDFFFFFF</color>
+    <color name="white_trans85">#D9FFFFFF</color>
+    <color name="defTextColor">#333333</color>
+    <!--<color name="mainColor1">#e4f8ff</color>-->
+    <!--<color name="mainColor2">#b2ffb2</color>-->
+    <color name="mainColor1Darker">#0093C4</color>
+    <color name="mainColor2Darker">#00A800</color>
+    <color name="medGroupcolor">#00DB00</color>
+
+    <!-- <color name="drawerDevider">#CCCCCC</color> -->
+    <color name="mainColor1Trans">#8000BFFF</color>
+    <color name="c_reminder_bg">#FF4C00</color>
+    <!-- applies -->
+
+    <color name="appBgColor">#D7E5EA</color>
+    <color name="drawerDevider">@android:color/white</color>
+    <color name="C1C1C1">#C1C1C1</color>
+    <color name="E0E0E0">#ECECEC</color>
+    <color name="text_color">#382e00</color>
+
+    <color name="F7AC27">#F7AC27</color>
+    <color name="F72C27">#F72C27</color>
+
+    <!-- 行事曆事件類型 -->
+    <color name="monthview_date_storkecolor_gray">#BFBFBF</color>
+    <color name="monthview_date_backgroundcolor_gray">#55DFE0E1</color>
+    <color name="yellow_color">#FF0</color>
+    <color name="gray_color">#AFAFAF</color>
+    <color name="DFF4D5">#DFF4D5</color>
+    <color name="page_transparnet">#00000000</color>
+    <color name="event_dot_color">#85D8DC</color>
+    <color name="event_type_green">#00a650</color>
+    <color name="event_type_purple">#92278f</color>
+    <color name="event_type_yellow">#f7941d</color>
+    <color name="event_type_blue">#0072bb</color>
+    <color name="event_type_gracegreen">#8dc73f</color>
+    <color name="event_type_graceblue">#6efff0</color>
+</resources>

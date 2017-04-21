@@ -1,0 +1,25 @@
+<resources>
+    <!--<string name="app_name">DrawerFramework</string>-->
+    <string name="Health_Care">健康照護</string>
+    <string name="bloodpress">血壓</string>
+    <string name="bloodsugar">血糖</string>
+    <string name="weight">體重記錄</string>
+    <string name="sport">運動記錄</string>
+    <string name="sleep">睡眠記錄</string>
+    <string name="diet">飲食記錄</string>
+    <string name="report">報告書</string>
+    <string name="lesion_care">病灶看護</string>
+    <string name="schedule">行事曆</string>
+    <string name="information">會員叮嚀</string>
+    <string name="health_education">健康衛教</string>
+    <string name="persional_information">個人基本資料</string>
+    <string name="setting">其他設定</string>
+    <string name="logout">登出</string>
+    <string name="openDrawer">open</string>
+    <string name="closeDrawer">close</string>
+
+    <string name="drawerframework_drawer_open">Open navigation drawer</string>
+    <string name="drawerframework_drawer_close">Close navigation drawer</string>
+    <string name="nv_header_title"><![CDATA[<big><b>%1$s</b>&nbsp<b>您好</b>&nbsp<b>%2$s</b></big><br><small><b>&nbsp&nbsp&nbsp</b>%3$s</small>]]></string>
+
+</resources>

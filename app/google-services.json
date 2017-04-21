@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "897779953799",
+    "project_id": "pushservice-1371"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897779953799:android:1f585572bee1669f",
+        "android_client_info": {
+          "package_name": "com.omnihealthgroup.reshining"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpAirLzeyrVn8kJdUvuBLviXGo0t3kS_o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

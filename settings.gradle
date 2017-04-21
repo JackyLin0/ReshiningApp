@@ -1,0 +1,8 @@
+include ':app', ':Schedule'
+include ':DrawerFramework'
+include ':Badymeasurement'
+include ':Diet'
+include ':Custom'
+include ':Communication'
+include ':Setting'
+include ':Persionalinformation'

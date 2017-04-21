@@ -1,0 +1,46 @@
+<resources>
+    <!--<string name="app_name">Diet</string>-->
+    <!--<string name="fragment_myhealthdating">我的健康飲食</string>-->
+    <!--<string name="tabpage_11">早餐</string>-->
+    <!--<string name="tabpage_12">早點</string>-->
+    <!--<string name="tabpage_13">午餐</string>-->
+    <!--<string name="tabpage_14">午點</string>-->
+    <!--<string name="tabpage_15">晚餐</string>-->
+    <!--<string name="tabpage_16">宵夜</string>-->
+
+
+    <!--<string name="title">健康照護雲</string>-->
+
+    <!--&lt;!&ndash; 健康食物&ndash;&gt;-->
+    <!--<string name="dialog_dating_add">新增食物</string>-->
+    <!--<string name="dialog_dating_serch">搜尋食品(請輸入名稱)</string>-->
+    <!--<string name="add_dating_message">食物新增完成</string>-->
+    <!--<string name="add_dating_content">飲食內容</string>-->
+    <!--<string name="dialog_list_dating">食品列表</string>-->
+
+    <!--<string name="add_dating_name">食品名稱</string>-->
+    <!--<string name="add_dating_amount">份量</string>-->
+    <!--<string name="add_dating_type">烹調方式</string>-->
+    <!--<string name="add_dating_name_message">請填寫食品名稱</string>-->
+    <!--<string name="add_dating_amount_message">請點擊選填份量及單位</string>-->
+    <!--<string name="add_dating_type_message">請點擊選填烹調方式</string>-->
+    <!--<string name="add_dating_amount_title">參考份量</string>-->
+    <!--<string name="add_dating_amount_remark">(此圖代表每單位份量)</string>-->
+    <!--<string name="add_dating_amount_content">每份營養價值</string>-->
+    <!--<string name="add_dating_moisture">熱量</string>-->
+    <!--<string name="add_dating_protein">蛋白質</string>-->
+    <!--<string name="add_dating_fat">脂肪</string>-->
+    <!--<string name="add_dating_sugar">醣類</string>-->
+
+    <!--<string name="add_new_commit">完成</string>-->
+    <!--<string name="add_new_cancel">取消</string>-->
+    <!--<string name="detail">食品詳細資料</string>-->
+
+    <!--<string-array name="type_dating">-->
+        <!--<item>蒸</item>-->
+        <!--<item>滷</item>-->
+        <!--<item>炒</item>-->
+        <!--<item>煎/炸</item>-->
+        <!--<item>未進行其他烹調加工</item>-->
+    <!--</string-array>-->
+</resources>
